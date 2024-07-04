@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Test repo to demonstrate issue React + TypeScript + Vite
 
 DEMO: <https://evolu-vite-react-pwa.vercel.app/>
 
